@@ -1,7 +1,6 @@
 # 🌍 MyTravel
 
-MyTravel is a simple travel listings web app that lets users view, add, update, and delete travel destinations.  
-It’s built with **Node.js**, **Express**, **MongoDB**, and vanilla **HTML, CSS, JS**.
+MyTravel is a lightweight travel listings application designed to showcase destinations with basic Create, Read, Update, and Delete (CRUD) functionality. Built using Node.js, Express, MongoDB, and vanilla frontend technologies (HTML, CSS, JS), it demonstrates a clean and minimalistic backend-frontend integration. Data is currently stored in MongoDB (local Compass instance) but can easily be migrated to cloud databases.
 
 ---
 
